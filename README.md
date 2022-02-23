@@ -1,4 +1,4 @@
-#Add the code below after the section line to your CSS section on 4chan-x. The color is set to purple with font size 14pt.
+Add the code below to your CSS section on 4chan-x. The color is set to purple with font size 14pt.
 
 --------------------
 
