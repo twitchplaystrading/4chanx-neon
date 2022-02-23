@@ -1,4 +1,5 @@
 Add the code below to your CSS section on 4chan-x. The color is set to purple with font size 14pt.
+![alt text](https://github.com/twitchplaystrading/4chanx-neon/blob/69b7e28e1c9e8974923aad980d2292d4608951d5/Screenshot_20220223_173204.png)
 
 --------------------
 ```
