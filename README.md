@@ -1,8 +1,8 @@
 Add the code below to your CSS section on 4chan-x. The color is set to purple with font size 14pt.
 
 --------------------
-
-``/* Board title rice */
+```
+/* Board title rice */
 
 :root.tomorrow div.boardTitle {
     font-weight: 400 !important;
@@ -101,3 +101,4 @@ font-size: 14pt;
     color: #8000ff!important;
     text-decoration: none;
 }
+```
