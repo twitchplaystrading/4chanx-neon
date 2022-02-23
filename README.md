@@ -87,7 +87,6 @@ font-size: 14pt;
     width: 100%;
 }
 :root.tomorrow body{
-    /*I self host the server that serves my background image*/
     background-image: url(YOUR_BACKGROUND_IMAGE_HERE);
     background-size:cover;
     background-attachment: fixed !important;
